@@ -4,7 +4,6 @@
 
 #include "main.h"
 #include "event.h"
-#include "enemy.h"
 
 
 int	main(void)
