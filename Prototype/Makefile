@@ -1,7 +1,7 @@
 CC = gcc
 NAME = spaceship
 FLAGS = -lSDL2 -lSDL2_image
-SOURCE = main.c event.c enemy.c
+SOURCE = main.c event.c
 RM = rm *.o
 
 all:
